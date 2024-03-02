@@ -1,1 +1,0 @@
-# temperature-archive-semenov-makarov
